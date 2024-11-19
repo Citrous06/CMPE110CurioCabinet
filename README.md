@@ -1,2 +1,2 @@
-# CMPE110CurioCabinet
-Curio Cabinet for class
+# CMPE110CurioCabinet Jeremy Wallace
+## Making my cabinet in terms of a github repository
